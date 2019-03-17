@@ -21,7 +21,7 @@ function Bio() {
             }}
           >
             <p>
-              This is my personal site, used to play around with Gatsby/React and muse about technology and bluegrass music.
+              This is my personal site, mostly for writing about bluegrass music and tech.
             </p>
           </div>
         )
